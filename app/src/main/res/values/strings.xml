@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BlackJack</string>
+    <string name="doblar">Doblar</string>
+    <string name="carta">Carta</string>
+    <string name="plantar">Plantar</string>
+    <string name="cartaMano">cartaMano</string>
+    <string name="cartaDealer">cartaDealer</string>
+</resources>
