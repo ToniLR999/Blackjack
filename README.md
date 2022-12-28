@@ -1,7 +1,3 @@
-
-basic blackjack in android studio with database of users 
-
-
 # Blackjack
 
 Basic blackjack in android studio with database of users.
